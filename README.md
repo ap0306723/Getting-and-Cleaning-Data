@@ -10,9 +10,7 @@ You should create one R script called run_analysis.R that does the following.
 
 ##Steps to work on this course project
     Download the data source and put into a folder on your local drive. You'll have a "UCI HAR Dataset" folder.
-    
-    Put run_analysis.R and the "UCI HAR Dataset" folder to your working directory.
-    
+    Put run_analysis.R and the "UCI HAR Dataset" folder to your working directory.    
     Input the command source("run_analysis.R"), then it will generate a new file TIDY_DATA(MEAN).txt in your working directory.
 
 ##Dependencies
